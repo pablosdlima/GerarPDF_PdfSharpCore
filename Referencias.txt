@@ -1,0 +1,6 @@
+http://www.andrealveslima.com.br/blog/index.php/2017/06/28/gerando-arquivos-pdf-no-c-com-a-biblioteca-pdfsharp/
+	// comandos de escrita
+
+https://www.youtube.com/watch?v=SFF--bRb5N8
+	// projeto baseado neste video.
+

@@ -1,1 +1,0 @@
-# GerarPDF_PdfSharpCore

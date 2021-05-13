@@ -1,0 +1,13 @@
+1 - ir em configurações nuget
+	//baixar PdfSharpCore para aplicações asp core
+
+2 - na controller criar um metodo publico do tipo FileResult
+	// criar "public FileResult" e informar variaveis do pdfSharp
+
+3 - Na View que desejar, criar link para teste.
+	// executar após
+
+4 - Inserir informações 
+	// comandos documentados.
+	
+
